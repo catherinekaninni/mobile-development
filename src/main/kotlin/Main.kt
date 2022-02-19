@@ -9,4 +9,6 @@ fun main() {
     println(weight)
     val kenyan:Boolean =true
     println(kenyan)
+    val Kenyan:Boolean =false
+    println(kenyan)
 }
